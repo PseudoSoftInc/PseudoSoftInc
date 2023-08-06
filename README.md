@@ -24,9 +24,7 @@ We invite you to explore our GitHub repository to discover the innovative projec
 
 If you're interested in learning more about PsudoSoft or have any inquiries, please don't hesitate to get in touch with us:
 
-- 📧 Email: contact@psudosoft.com
-- 🌐 Website: [www.psudo-soft.com](https://www.psudo-soft.com)
-- 💼 LinkedIn: [PsudoSoft](https://www.linkedin.com/company/psudosoft)
+- 📧 Email: psudosoftinc@gmail.com
 
 Thank you for visiting our GitHub repository and showing interest in PsudoSoft. We look forward to shaping the future of software together!
 
