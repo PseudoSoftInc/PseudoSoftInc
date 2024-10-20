@@ -1,4 +1,4 @@
-# PsudoSoft 🚀
+# PseudoSoft 🚀
 
 Welcome to the official GitHub repository of **PsudoSoft**, a dynamic and innovative private software company specializing in 🌐 web applications, 📱 progressive web apps (PWAs), cross-platform 📲 mobile apps, and various other cutting-edge software solutions.
 
