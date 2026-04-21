@@ -30,7 +30,7 @@ We invite you to explore our GitHub repository to discover the innovative projec
 
 If you're interested in learning more about PseudoSoft or have any inquiries regarding our AI and B2B services, please don't hesitate to get in touch:
 
-📧 Email: psudosoftinc@gmail.com
+📧 Email: pseudosoftinc@gmail.com
 
 Thank you for visiting our GitHub repository and showing interest in PseudoSoft. We look forward to shaping the future of software together!
 
