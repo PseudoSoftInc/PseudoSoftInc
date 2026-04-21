@@ -16,18 +16,24 @@ At PsudoSoft, we are passionate about leveraging technology to create exceptiona
 
 - **Cutting-Edge Technologies:** Our team is well-versed in the latest technologies and frameworks, ensuring that your software solutions are built using the most advanced tools available.
 
+- **Generative AI & LLMs:** We integrate state-of-the-art Generative AI to transform how businesses interact with data. From custom content generation to intelligent search, we bring the power of modern AI to your workflow.
+
+- **AI Automations & Agents:** Stay ahead with autonomous AI Agents designed to handle complex tasks, streamline operations, and provide 24/7 intelligent automation that learns and adapts to your business needs.
+
+- **B2B Enterprise Solutions:** We build robust, scalable software tailored for the corporate world. Our solutions focus on efficiency, security, and seamless integration into existing business ecosystems.
+
 ## Get Involved 🤝
 
 We invite you to explore our GitHub repository to discover the innovative projects we're working on. Feel free to check out our code, contribute to ongoing projects, or even collaborate with us on new ideas. Your input is highly valued and plays a crucial role in driving our company's growth.
 
 ## Contact Us 📬
 
-If you're interested in learning more about PsudoSoft or have any inquiries, please don't hesitate to get in touch with us:
+If you're interested in learning more about PseudoSoft or have any inquiries regarding our AI and B2B services, please don't hesitate to get in touch:
 
-- 📧 Email: psudosoftinc@gmail.com
+📧 Email: psudosoftinc@gmail.com
 
-Thank you for visiting our GitHub repository and showing interest in PsudoSoft. We look forward to shaping the future of software together!
+Thank you for visiting our GitHub repository and showing interest in PseudoSoft. We look forward to shaping the future of software together!
 
-**Stay Connected, Stay Innovative.**
+Stay Connected, Stay Innovative.
 
-*PsudoSoft Team* 👨‍💻👩‍💻
+PseudoSoft Team 👨‍💻👩‍💻
